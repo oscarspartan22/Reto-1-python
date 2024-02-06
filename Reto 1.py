@@ -1,0 +1,5 @@
+first_name = input("Ingrese su nombre: ")
+last_name = input("Ingrese su apellido: ")
+phone = int (input("Ingrese su numero de celular: "))
+email = input("Ingrese su email: ")
+print("Hola " + first_name, last_name + " en breve recibirás un correo a " + email)
